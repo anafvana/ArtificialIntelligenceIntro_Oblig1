@@ -1,4 +1,4 @@
-# Introduction to Artificial Intelligence - Obligatory Assignment
+# DATA3625 - Introduction to Artificial Intelligence - Oblig 1
 Departing from raw data contained in a csv file, generate outputs that can be used by artificial intelligence algorithms, as well as visual representations.
 
 Main learning objectives:
